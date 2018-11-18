@@ -1,0 +1,19 @@
+.tecla {
+    width: 100px;
+    height: 70px;
+    background-color: #EFFFC8;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #1a2028;
+    font-size: 18pt;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+}
+
+
+.tecla:active{
+    color: #85CB33;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+}
